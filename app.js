@@ -15,7 +15,7 @@ function closeForm() {
 know = {
   Hello: "Hi, Sir. Good to see you.",
   "What is your name?": "MOGA",
-  "Who are you?": "<b>I am a Chat Bot who created by Karmanpreet.</b>",
+  "Who are you?": "<b>I am a Chat Bot who created by Manpreet.</b>",
   "Tell me something": "You love to do Bhangra.",
   Lol: "Don't use this one.",
   Hi: "Hello World! Nice to meet you.",
